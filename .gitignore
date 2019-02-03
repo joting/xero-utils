@@ -1,0 +1,4 @@
+*.csv
+.vscode
+node_modules
+xero-node
